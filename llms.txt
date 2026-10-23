@@ -1,22 +1,23 @@
 # Estúdio em Pauta
 
-> Guias, comparativos e reviews de instrumentos, áudio e acessórios para tocar, gravar e ensaiar, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+> Guias, comparativos e reviews de instrumentos, áudio e acessórios para tocar, gravar e ensaiar, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 baterias e percussão até R$ 50: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/baterias-e-percussao-ate-50/)
-- [4 caixas de som até R$ 1.900: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/caixas-de-som-ate-1900/)
-- [4 estúdio, palco e dj até R$ 70: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/estudio-palco-e-dj-ate-70/)
-- [4 microfones até R$ 80: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/microfones-ate-80/)
-- [5 pedais de efeito até R$ 250: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/pedais-de-efeito-ate-250/)
+- [5 baterias e percussão até R$ 50: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/baterias-e-percussao-ate-50/)
+- [4 caixas de som até R$ 1.800: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/caixas-de-som-ate-1800/)
+- [4 estúdio, palco e dj até R$ 100: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/estudio-palco-e-dj-ate-100/)
+- [3 instrumentos e áudio até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/instrumentos-e-audio-ate-40/)
+- [4 microfones até R$ 60: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/microfones-ate-60/)
+- [5 pedais de efeito até R$ 250: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/pedais-de-efeito-ate-250/)
 
 ## Guias
-- [Como escolher baterias e percussão: o que olhar na ficha antes de gastar (de R$ 19,30 a R$ 159,83)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-baterias-e-percussao/)
-- [Como escolher caixa de som: o que olhar na ficha antes de gastar (de R$ 716 a R$ 3.179)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-caixa-de-som/)
-- [Como escolher cabo de áudio e vídeo: o que olhar na ficha antes de gastar (de R$ 19,49 a R$ 189,90)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-cabo-de-audio-e-video/)
-- [Como escolher microfone: o que olhar na ficha antes de gastar (de R$ 36,48 a R$ 561,40)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-microfone/)
-- [Como escolher pedal de efeito: o que olhar na ficha antes de gastar (de R$ 37,90 a R$ 385,39)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-pedal-de-efeito/)
+- [Como escolher baterias e percussão: o que olhar na ficha antes de gastar (de R$ 19,30 a R$ 159,95)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-baterias-e-percussao/)
+- [Como escolher caixa de som: o que olhar na ficha antes de gastar (de R$ 689 a R$ 3.179)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-caixa-de-som/)
+- [Como escolher cabo de áudio e vídeo: o que olhar na ficha antes de gastar (de R$ 20,90 a R$ 178,60)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-cabo-de-audio-e-video/)
+- [Como escolher microfone: o que olhar na ficha antes de gastar (de R$ 36,48 a R$ 603,90)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-microfone/)
+- [Como escolher pedal de efeito: o que olhar na ficha antes de gastar (de R$ 37,90 a R$ 360)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-pedal-de-efeito/)
 
 ## Reviews
 - [Banco Para Bateria Don Caprini Redondo, Com Altura: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/banco-para-bateria-don-caprini-redondo-com-altura-fe05a7/)
@@ -35,7 +36,6 @@ Contém links de afiliado Mercado Livre.
 - [Caixa de Som Ativa Staner SR-315A 300W RMS em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/caixa-de-som-ativa-staner-sr-315a-300w-rms-6f61bb/)
 - [Monitor de Palco Yamaha Dbr10 Preto em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/monitor-de-palco-yamaha-dbr10-preto-5fd5f9/)
 - [caixa ativa monitor igreja bar show Donner Saga: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/caixa-ativa-monitor-igreja-bar-show-donner-saga-75906a/)
-- [Afinador Digital Cromático Clip Violão Viola Guitarra Cavaco em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/afinador-digital-cromatico-clip-violao-viola-guitarra-cavaco-17bbce/)
 - [Cabo Audio P10 6.5mm X P2 3.5mm 5m: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/cabo-audio-p10-6-5mm-x-p2-3-5mm-5m-a936e6/)
 - [Cabo P10 Santo Angelo NINJA 30FT Guitarra Violão: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/cabo-p10-santo-angelo-ninja-30ft-guitarra-violao-9276ac/)
 - [Cabo de Áudio Mono P10 para P10 5: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/cabo-de-audio-mono-p10-para-p10-5-a1d4d6/)
@@ -43,10 +43,12 @@ Contém links de afiliado Mercado Livre.
 - [Interface de Áudio Joyo MOMIX CAB Celular/PC Preto: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/interface-de-audio-joyo-momix-cab-celular-pc-preto-b02935/)
 - [M-Vave Cube Turner Pro Pedal de giro de em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/m-vave-cube-turner-pro-pedal-de-giro-de-969095/)
 - [Pop Filter Para Microfone Voz Vocal Filtro Estúdio: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/pop-filter-para-microfone-voz-vocal-filtro-estudio-c97ec9/)
+- [Electro Nest Fone De Ouvido Com Fio 3.5mm em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/electro-nest-fone-de-ouvido-com-fio-3-5mm-699f7f/)
+- [Fones de ouvido Bluetooth 5.3 com cancelamento de em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/fones-de-ouvido-bluetooth-5-3-com-cancelamento-de-e2cd83/)
+- [Karaokê Bluetooth com 2 Microfones Sem Fio Caixa em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/karaoke-bluetooth-com-2-microfones-sem-fio-caixa-e46180/)
 - [Hollyland Lark M2 Microfone S/ Fio P/ iPhone: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/hollyland-lark-m2-microfone-s-fio-p-iphone-ae061e/)
 - [Kit 2 Microfones Profissional Duplo Dinâmico Karaoke Igreja: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/kit-2-microfones-profissional-duplo-dinamico-karaoke-igreja-bc3a01/)
 - [Kit 2 Microfones Sem Fio Dinâmico Recarregável Profissional: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/kit-2-microfones-sem-fio-dinamico-recarregavel-profissional-956141/)
-- [Microfone Fifine Usb/xlr Am8 Dinâmico Cardioide em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/microfone-fifine-usb-xlr-am8-dinamico-cardioide-cd291e/)
 - [Microfone Hollyland Lark A1 Duo Usb-c cor Preto: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/microfone-hollyland-lark-a1-duo-usb-c-cor-preto-3aa307/)
 - [Microfone Lapela A'Gold MCF-38D Sem Fio para iPhone: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/microfone-lapela-a-gold-mcf-38d-sem-fio-para-iphone-f78fad/)
 - [Microfone Lapela Redondo Imã Sem Fio Preto Duplo: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/review/microfone-lapela-redondo-ima-sem-fio-preto-duplo-24b78b/)
