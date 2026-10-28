@@ -5,17 +5,17 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 baterias e percussão até R$ 50: comparativo com preços de 27/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/baterias-e-percussao-ate-50/)
-- [4 caixas de som até R$ 1.800: comparativo com preços de 27/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/caixas-de-som-ate-1800/)
-- [4 estúdio, palco e dj até R$ 100: comparativo com preços de 27/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/estudio-palco-e-dj-ate-100/)
-- [3 instrumentos e áudio até R$ 40: comparativo com preços de 27/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/instrumentos-e-audio-ate-40/)
-- [4 microfones até R$ 60: comparativo com preços de 27/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/microfones-ate-60/)
-- [5 pedais de efeito até R$ 250: comparativo com preços de 27/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/pedais-de-efeito-ate-250/)
+- [5 baterias e percussão até R$ 50: comparativo com preços de 28/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/baterias-e-percussao-ate-50/)
+- [4 caixas de som até R$ 1.800: comparativo com preços de 28/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/caixas-de-som-ate-1800/)
+- [4 estúdio, palco e dj até R$ 100: comparativo com preços de 28/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/estudio-palco-e-dj-ate-100/)
+- [3 instrumentos e áudio até R$ 40: comparativo com preços de 28/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/instrumentos-e-audio-ate-40/)
+- [4 microfones até R$ 60: comparativo com preços de 28/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/microfones-ate-60/)
+- [5 pedais de efeito até R$ 250: comparativo com preços de 28/10](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/top/pedais-de-efeito-ate-250/)
 
 ## Guias
 - [Como escolher baterias e percussão: o que olhar na ficha antes de gastar (de R$ 19,30 a R$ 155,16)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-baterias-e-percussao/)
 - [Como escolher caixa de som: o que olhar na ficha antes de gastar (de R$ 668 a R$ 3.179)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-caixa-de-som/)
-- [Como escolher cabo de áudio e vídeo: o que olhar na ficha antes de gastar (de R$ 20,90 a R$ 165,62)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-cabo-de-audio-e-video/)
+- [Como escolher cabo de áudio e vídeo: o que olhar na ficha antes de gastar (de R$ 19 a R$ 189,88)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-cabo-de-audio-e-video/)
 - [Como escolher microfone: o que olhar na ficha antes de gastar (de R$ 36,48 a R$ 532)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-microfone/)
 - [Como escolher pedal de efeito: o que olhar na ficha antes de gastar (de R$ 37,90 a R$ 360)](https://marcusviniciusps08-hue.github.io/blog-palco-e-estudio/guia/como-escolher-pedal-de-efeito/)
 
